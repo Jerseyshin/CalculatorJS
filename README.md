@@ -1,6 +1,6 @@
 # CalculatorJS
-实现了横屏竖屏不同功能
-实现了数字输入0-9 . e pi Rand
+实现了横屏竖屏不同功能 \n
+实现了数字输入0-9 . e pi Rand \n
 单目操作符：+/- % x^2 x^3 e^x 10^x 1/x x^(1/2) x^(1/3) lnx log10x x! sinx cosx tanx sinhx coshx tanhx
 双目操作符：+ - * / x^y x^(1/y)
 注意：不可进行双目操作符混合运算，可以进行单目双目操作符混合运算
