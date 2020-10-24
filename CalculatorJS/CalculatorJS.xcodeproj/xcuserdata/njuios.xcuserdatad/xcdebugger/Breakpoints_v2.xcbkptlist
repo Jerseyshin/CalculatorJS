@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16099015-11FD-4BB5-848F-EDE04FC43C56"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D08A009-B842-428D-87B7-F733615BA28F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalculatorJS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - 730e7a849b805734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.Result.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - 89c9cbdffed7a938"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.Result.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - a108116ec4b5509f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.Result.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - 7b0380f8bc87bb99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.Result.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - 137365b998f7d569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CalculatorJS.ViewController"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  uuid = "4D08A009-B842-428D-87B7-F733615BA28F - 61735d49770f1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorJS.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CalculatorJS.ViewController&gt;"
+                  moduleName = "CalculatorJS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/njuios/Documents/JersyWork/CalculatorJS/CalculatorJS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
